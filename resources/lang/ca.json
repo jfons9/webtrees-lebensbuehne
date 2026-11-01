@@ -1,6 +1,6 @@
 {
-  "{n} Person · {von}–{bis} · {g} Gesichter": "{n} persona · {von}–{bis} · {g} cares",
-  "{n} Personen · {von}–{bis} · {g} Gesichter": "{n} persones · {von}–{bis} · {g} cares",
+  "{n} Person · {von}–{bis} · {g} Gesichter": "{n} persona · {von}–{bis} · {g} imatge",
+  "{n} Personen · {von}–{bis} · {g} Gesichter": "{n} persones · {von}–{bis} · {g} imatges",
   "{namen} und deren Vorfahren einblenden": "Mostra {namen} i els seus antecessors",
   "{namen} und dessen Vorfahren einblenden": "Mostra {namen} i els seus antecessors",
   "Keine Partner im Stammbaum": "Sense parelles en l'arbre genealògic",
